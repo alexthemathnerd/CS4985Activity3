@@ -8,6 +8,27 @@ import java.util.Random;
  * @version Fall 2021
  */
 public class HiLowGame {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	private int secretNumber;
 	private int guessCount;
 	private Random randomNumberGenerator;
